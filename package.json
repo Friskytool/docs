@@ -1,14 +1,14 @@
 {
-  "name": "nextra",
+  "name": "friskytool-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Documentation for Friskytool Discord Bot",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Squidtoon99",
   "license": "MIT",
   "dependencies": {
     "next": "^10.0.8-canary.9",
@@ -23,5 +23,6 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "repository": "git@github.com:Friskytool/docs.git"
 }
